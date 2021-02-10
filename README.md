@@ -1,2 +1,3 @@
 # Mods
-Mods I design will go here. All Voron mods will be uploaded to VoronUsers, and the rest will be uploaded to Thingiverse too.
+All my mods, including WIP, will be uploaded here. When finished, they will be uploaded to VoronUsers or Thingiverse too depending on the mod.
+There is no index file for now, just use the folders.
